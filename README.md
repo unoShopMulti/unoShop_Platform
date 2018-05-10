@@ -1,6 +1,6 @@
 # unoShop_Platform
 
-<pre style="color:red">
+<pre style="color:'red'">
 
 This repository contains the core Framework and Platform Files. Please check the status of this repository regularly.
 
