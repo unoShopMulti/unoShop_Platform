@@ -3,6 +3,8 @@
 # 2. In your opencart directory rename htaccess.txt to .htaccess.
 
 # For any support issues please visit: http://magicpaint.16mb.com
+# Author   : Puranjan Gaur.
+# Date     : 10-May-2018.
 
 Options +FollowSymlinks
 
