@@ -53,4 +53,4 @@ RewriteRule ^([^?]*) index.php?_route_=$1 [L,QSA]
 # php_value max_input_time 200
 
 # 7. disable open_basedir limitations
-# php_admin_value open_basedir none
+# php_admin_value open_basedir none.
