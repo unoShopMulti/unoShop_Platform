@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 1.To use URL Alias you need to be running apache with mod_rewrite enabled.
 
 # 2. In the project directory on the server htaccess.txt to .htaccess.
@@ -54,3 +55,6 @@ RewriteRule ^([^?]*) index.php?_route_=$1 [L,QSA]
 
 # 7. disable open_basedir limitations
 # php_admin_value open_basedir none
+=======
+Something here
+>>>>>>> fe01cc8dac8f140f9e4b34ee199747b8279d7a17
